@@ -16,3 +16,5 @@ cd WhereAreU
 ```
 bash finder.sh
 ```
+website : https://qawe.vercel.app/
+discord : qawe1
